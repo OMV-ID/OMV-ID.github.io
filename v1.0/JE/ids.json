@@ -7782,5 +7782,12 @@
 	"finalReupload": true,
 	"release": "1.20.2",
 	"name": "1.20.2"
+  },
+  "JE-01C-014-0": {
+	"launcherID": "23w33a",
+	"reupload": 0,
+	"finalReupload": true,
+	"release": "1.20.2",
+	"name": "1.20.2"
   }
 }
